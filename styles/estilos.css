@@ -1,0 +1,31 @@
+.img-logo{
+    width:40px;
+    height:70px;
+}
+.contenidos{
+    height:550px;
+}
+.cabeza{
+    height:50px;
+}
+
+.menu-lateral{
+    position:fixed;
+    margin-left:1500px;
+    margin-top: 30px;
+    border-radius: 30px;
+    background-color:#E2E5E7;
+}
+.menu{
+    height:100px;
+}
+
+.fondos{
+    background:#E2E5E7;
+
+}
+.opc{
+    color:#E34A6E;
+    text-decoration: none;
+    
+}
